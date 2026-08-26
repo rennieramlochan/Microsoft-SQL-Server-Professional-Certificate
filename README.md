@@ -357,7 +357,7 @@ The certificate represents the completion of the **Microsoft SQL Server Professi
 
 📜 **[View Certificate Image](https://github.com/rennieramlochan/Microsoft-SQL-Server-Professional-Certificate/blob/main/Rennie%20Ramlochan-Microsoft%20SQL%20Server%20Professional%20Certificate.jpg)**
 
-&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+
 
 📄 **[View Certificate PDF](https://github.com/rennieramlochan/Microsoft-SQL-Server-Professional-Certificate/blob/main/Rennie%20Ramlochan-Microsoft%20SQL%20Server%20Professional%20Certificate.pdf)**
 
