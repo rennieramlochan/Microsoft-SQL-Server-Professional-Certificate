@@ -418,7 +418,6 @@ AI can make it easier to generate SQL and work with complex datasets, but the fu
 
 A database professional must still be able to evaluate:
 
-```text
 What data are we working with?
               ↓
 What question are we trying to answer?
@@ -430,6 +429,49 @@ Is the query efficient?
 Is the result accurate?
               ↓
 What does the result mean?
+
+
+# 📌 Disclaimer
+
+This repository is a personal learning portfolio documenting my experience and selected work from the **Microsoft SQL Server Professional Certificate**.
+
+Course materials, assessments, solutions, videos, and copyrighted content belonging to Microsoft or Coursera are not reproduced in this repository.
+
+The SQL scripts, documentation, examples, and projects published here are my own work or adaptations created for educational and portfolio purposes.
+
+---
+
+# 👨🏽‍💻 Author
+
+## Rennie Ramlochan
+
+**Database Specialist | Database Engineering | Data | Cybersecurity | AI**
+
+📍 Trinidad and Tobago
+
+🔗 [**GitHub — @rennieramlochan**](https://github.com/rennieramlochan)
+
+---
+
+# 🔗 Related Learning
+
+Explore my other technical learning repositories and projects:
+
+### IBM Data Engineering
+
+🔗 [**IBM Data Engineering**](https://github.com/rennieramlochan/IBM-Data-Engineering)
+
+### GitHub Profile
+
+🔗 [**View My GitHub Profile**](https://github.com/rennieramlochan)
+
+---
+
+<p align="center">
+
+⭐ **If you find this repository useful, feel free to explore the projects and learning materials.**
+
+</p>
               ↓
 How can it support better decisions?
 
