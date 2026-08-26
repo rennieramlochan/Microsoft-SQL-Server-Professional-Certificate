@@ -20,6 +20,16 @@
 
 ## 📚 About This Repository
 
+This portfolio showcases the knowledge, practical activities, and hands-on projects completed as part of the **Microsoft SQL Server Professional Certificate**.
+
+It demonstrates practical skills in **Microsoft SQL Server, SQL, T-SQL, relational database design, database development, data manipulation, transaction management, database security, indexing, query optimization, performance tuning, database maintenance, backup and recovery, data modelling, data warehousing, and Power BI integration**.
+
+The portfolio highlights practical experience in designing, developing, querying, securing, and optimizing relational database environments. It demonstrates how SQL Server can be used to manage reliable and high-performing data platforms that support operational systems, reporting, analytics, and business intelligence.
+
+The projects and practical exercises demonstrate the ability to apply database engineering principles to real-world scenarios, including **database design, normalization, complex querying, transactions, concurrency, performance optimization, security controls, data integrity, maintenance, and business intelligence**.
+
+The portfolio also explores the role of **Generative AI in modern SQL development**, including AI-assisted query development, troubleshooting, optimization, and technical problem-solving. While AI can accelerate database development, the portfolio emphasizes the importance of understanding SQL fundamentals, validating results, evaluating query performance, and applying sound technical judgement.
+
 This repository documents my learning journey through the **Microsoft SQL Server Professional Certificate** on Coursera.
 
 The program provided practical experience across:
